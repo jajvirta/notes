@@ -12,7 +12,7 @@ difficulties), but it requires a lot of work.
 
 ### The D-K effect is misrepresented in the public at large
 
-- [https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real](The Dunning-Kruger Effect Is Probably Not Real)
+- [The Dunning-Kruger Effect Is Probably Not Real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
 - https://danluu.com/dunning-kruger/
 
 ## Work-in-progress
