@@ -27,6 +27,15 @@ lasts. Need to collect sources. There are those.
 
 ## On the verge
 
+### Speed matters
+
+Doing stuff quickly is more important than just getting the marginal benefits
+of being quicker.
+
+- [Dan Luu on velocivty](https://danluu.com/productivity-velocity/)
+- [Speed matters: Why working quickly is more important than it
+  seems](https://jsomers.net/blog/speed-matters)
+
 ### What the "marshmallow experiment" really says
 
 - [The Stanford Marshmallow
@@ -47,5 +56,13 @@ Pages](https://www.theguardian.com/lifeandstyle/2014/oct/03/morning-pages-change
 - [Miracle of Morning
   Pages](https://www.amazon.com/The-Miracle-Morning-Pages-Everything-ebook/dp/B00DIQ9K40)
 - [Writing to heal](https://www.apa.org/monitor/jun02/writing)
+
+
+
+## Inspiration for this page
+
+
+[Buster Benson's page about his beliefs](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md)
+
 
 
