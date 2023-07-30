@@ -9,7 +9,6 @@ difficulties), but it requires a lot of work.
 
 ## Established
 
-
 ### The D-K effect is misrepresented in the public at large
 
 I don't why I'm so incredibly annoyed by the public misrepresentation of this
@@ -18,6 +17,13 @@ the D-K and you'll see that people
 
 - [The Dunning-Kruger Effect Is Probably Not Real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
 - https://danluu.com/dunning-kruger/
+
+### Cold plunging is good for your physical and mental health
+
+I've started taking cold plunges into the lake Näsijärvi at Rauhaniemen
+kansankylpylä and it has been transformative as a relaxation technique for me.
+The feeling after the plunge is the best I've had. Not sure if the effect
+lasts. Need to collect sources. There are those.
 
 ## On the verge
 
@@ -32,8 +38,14 @@ the D-K and you'll see that people
   experiment?
 
 
-
-
 ## Work-in-progress
+
+### Morning Pages improves mood and general feeling
+
+- [Oliver Burkeman on Morning
+Pages](https://www.theguardian.com/lifeandstyle/2014/oct/03/morning-pages-change-your-life-oliver-burkeman)
+- [Miracle of Morning
+  Pages](https://www.amazon.com/The-Miracle-Morning-Pages-Everything-ebook/dp/B00DIQ9K40)
+- [Writing to heal](https://www.apa.org/monitor/jun02/writing)
 
 
