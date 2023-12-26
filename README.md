@@ -1,3 +1,8 @@
+# Evergreen (?) Notes of My Brain
+
+Inspired by Andy Matuschak's ideas on note-taking, I'll try to organize
+my thoughts as "atomic notes". I think most below already are. 
+
 # Beliefs and cornerstones of my worldview
 
 I keep my bookmarks and links in a non-cohesive collection. This is another
