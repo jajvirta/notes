@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 # Evergreen (?) Notes of My Brain
 
 Inspired by Andy Matuschak's ideas on note-taking, I'll try to organize
 my thoughts as "atomic notes". I think most below already are. 
 
 # Beliefs and cornerstones of my worldview
+=======
+# Beliefs and current hypothesis of my worldview
+>>>>>>> c51747b (adds stuff)
 
 I keep my bookmarks and links in a non-cohesive collection. This is another
 attempt to collect these ideas into one document. This is not just a link
@@ -12,16 +16,22 @@ the articles or documents that describe these beliefs. Yet a better way to
 document these ideas would be to produce the ideas oneself (see: desirable
 difficulties), but it requires a lot of work.
 
-## Established
+## Committed
 
 ### The D-K effect is misrepresented in the public at large
 
-I don't why I'm so incredibly annoyed by the public misrepresentation of this
-phenomenon, because every phenomenon is misrepresented. However, just Google
-the D-K and you'll see that people 
+I don't know why I'm so incredibly annoyed by the public misrepresentation of
+this phenomenon, because every phenomenon is misrepresented. However, just
+Google the D-K and you'll see that people 
 
 - [The Dunning-Kruger Effect Is Probably Not Real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
 - https://danluu.com/dunning-kruger/
+
+## On the verge
+
+### You need to commit to specific targets
+
+[Hugging the X-axis](https://perell.com/essay/hugging-the-x-axis/?utm_source=pocket_shared)
 
 ### Cold plunging is good for your physical and mental health
 
@@ -29,8 +39,6 @@ I've started taking cold plunges into the lake Näsijärvi at Rauhaniemen
 kansankylpylä and it has been transformative as a relaxation technique for me.
 The feeling after the plunge is the best I've had. Not sure if the effect
 lasts. Need to collect sources. There are those.
-
-## On the verge
 
 ### Speed matters
 
@@ -61,8 +69,12 @@ Pages](https://www.theguardian.com/lifeandstyle/2014/oct/03/morning-pages-change
 - [Miracle of Morning
   Pages](https://www.amazon.com/The-Miracle-Morning-Pages-Everything-ebook/dp/B00DIQ9K40)
 - [Writing to heal](https://www.apa.org/monitor/jun02/writing)
+- [Buster Benson on Morning
+  Pages](https://betterhumans.pub/better-than-meditation-12532d29f6cd)
 
+### Meditation can be harmful
 
+[When Buddhism goes bad](https://danlawton.substack.com/p/when-buddhism-goes-bad)
 
 ## Inspiration for this page
 
