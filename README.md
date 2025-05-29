@@ -2,6 +2,8 @@
 
 ## Learn STAMP, STPA and CAST and apply them
 
+[ ] Read Engineering a Safer World
+
 ## Organize big ideas into this page
 
 ## Beliefs and current hypothesis of my worldview
