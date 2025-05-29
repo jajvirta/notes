@@ -1,12 +1,16 @@
-# Current big goals
+# Goals and Beliefs
 
-## Learn STAMP, STPA and CAST and apply them
+## Goals
 
-[ ] Read Engineering a Safer World
+### Learn STAMP, STPA and CAST and apply them
 
-## Organize big ideas into this page
+[] Read Engineering a Safer World
 
-## Beliefs and current hypothesis of my worldview
+### Organize big ideas into this page
+
+
+
+## Beliefs
 
 I keep my bookmarks and links in a non-cohesive collection. This is another
 attempt to collect these ideas into one document. This is not just a link
@@ -17,7 +21,7 @@ difficulties), but it requires a lot of work.
 
 ### Committed
 
-### The D-K effect is misrepresented in the public at large
+#### The D-K effect is misrepresented in the public at large
 
 I don't know why I'm so incredibly annoyed by the public misrepresentation of
 this phenomenon, because every phenomenon is misrepresented. However, just
@@ -26,25 +30,34 @@ Google the D-K and you'll see that people
 - [The Dunning-Kruger Effect Is Probably Not Real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
 - https://danluu.com/dunning-kruger/
 
-## On the verge
+### On the verge
 
-### Matuschak's ever-green notes
+#### Matuschak's ever-green notes
 
 Inspired by Andy Matuschak's ideas on note-taking, I'll try to organize
 my thoughts as "atomic notes". I think most below already are. 
 
-### You need to commit to specific targets
+#### You need to commit to specific targets
 
 [Hugging the X-axis](https://perell.com/essay/hugging-the-x-axis/?utm_source=pocket_shared)
 
-### Cold plunging is good for your physical and mental health
+> If today you’re comfortable committing to something for two hours, try
+> committing for a weekend. If you’re comfortable committing for two weeks, then
+> raise it to two months; once you’re comfortable with two months, raise it to
+> two years; and once you’re comfortable with two years, raise it to two decades.
+> It’s okay to start small. All big things do. But they have to start somehow and
+> with commitment comes momentum. Commitment happens in stages, and only by
+> embracing it can you stop hugging the X-Axis and climb the compounding curve.
+
+
+#### Cold plunging is good for your physical and mental health
 
 I've started taking cold plunges into the lake Näsijärvi at Rauhaniemen
 kansankylpylä and it has been transformative as a relaxation technique for me.
 The feeling after the plunge is the best I've had. Not sure if the effect
 lasts. Need to collect sources. There are those.
 
-### Speed matters
+#### Speed matters
 
 Doing stuff quickly is more important than just getting the marginal benefits
 of being quicker.
@@ -53,7 +66,7 @@ of being quicker.
 - [Speed matters: Why working quickly is more important than it
   seems](https://jsomers.net/blog/speed-matters)
 
-### What the "marshmallow experiment" really says
+#### What the "marshmallow experiment" really says
 
 - [The Stanford Marshmallow
   Experiment](https://hotelconcierge.tumblr.com/post/113360634364/the-stanford-marshmallow-prison-experiment):
@@ -64,9 +77,16 @@ of being quicker.
   experiment?
 
 
-## Work-in-progress
+### Work-in-progress
 
-### Morning Pages improves mood and general feeling
+#### Meditation can be harmful
+
+[When Buddhism goes bad](https://danlawton.substack.com/p/when-buddhism-goes-bad)
+
+
+### On-hold, dumped
+
+#### Morning Pages improves mood and general feeling
 
 - [Oliver Burkeman on Morning
 Pages](https://www.theguardian.com/lifeandstyle/2014/oct/03/morning-pages-change-your-life-oliver-burkeman)
@@ -76,12 +96,8 @@ Pages](https://www.theguardian.com/lifeandstyle/2014/oct/03/morning-pages-change
 - [Buster Benson on Morning
   Pages](https://betterhumans.pub/better-than-meditation-12532d29f6cd)
 
-### Meditation can be harmful
-
-[When Buddhism goes bad](https://danlawton.substack.com/p/when-buddhism-goes-bad)
 
 ## Inspiration for this page
-
 
 [Buster Benson's page about his beliefs](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md)
 
