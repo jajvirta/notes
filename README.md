@@ -1,4 +1,10 @@
-# Beliefs and current hypothesis of my worldview
+# Current big goals
+
+## Learn STAMP, STPA and CAST and apply them
+
+## Organize big ideas into this page
+
+## Beliefs and current hypothesis of my worldview
 
 I keep my bookmarks and links in a non-cohesive collection. This is another
 attempt to collect these ideas into one document. This is not just a link
@@ -7,7 +13,7 @@ articles or documents that describe these beliefs. Yet a better way to document
 these ideas would be to produce the ideas oneself (see: desirable
 difficulties), but it requires a lot of work.
 
-## Committed
+### Committed
 
 ### The D-K effect is misrepresented in the public at large
 
