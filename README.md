@@ -1,19 +1,10 @@
-<<<<<<< HEAD
-# Evergreen (?) Notes of My Brain
-
-Inspired by Andy Matuschak's ideas on note-taking, I'll try to organize
-my thoughts as "atomic notes". I think most below already are. 
-
-# Beliefs and cornerstones of my worldview
-=======
 # Beliefs and current hypothesis of my worldview
->>>>>>> c51747b (adds stuff)
 
 I keep my bookmarks and links in a non-cohesive collection. This is another
 attempt to collect these ideas into one document. This is not just a link
-collection, more like a collection of ideas and beliefs which then links to
-the articles or documents that describe these beliefs. Yet a better way to
-document these ideas would be to produce the ideas oneself (see: desirable
+collection, more like a collection of ideas and beliefs which then links to the
+articles or documents that describe these beliefs. Yet a better way to document
+these ideas would be to produce the ideas oneself (see: desirable
 difficulties), but it requires a lot of work.
 
 ## Committed
@@ -28,6 +19,11 @@ Google the D-K and you'll see that people
 - https://danluu.com/dunning-kruger/
 
 ## On the verge
+
+### Matuschak's ever-green notes
+
+Inspired by Andy Matuschak's ideas on note-taking, I'll try to organize
+my thoughts as "atomic notes". I think most below already are. 
 
 ### You need to commit to specific targets
 
